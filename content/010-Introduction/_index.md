@@ -1,13 +1,13 @@
 ---
-title: "Introduction"
+title: "Introducción"
 chapter: true
 weight: 10
 ---
 
-# Genesys Workshop Series
+# Serie de Talleres de Genesys
 
-## Introduction
+## Introducción
 
-### Welcome
+### Bienvenido
 
-In this workshop, you will learn how to build a workshop from scratch using Github and a few other tools. This workshop is intended for internal teams and partners who are working to develop workshops.
+En este taller, usted aprenderá cómo crear un taller desde cero usando Github y algunas otras herramientas. Está destinado a equipos internos y socios que están trabajando para desarrollar talleres.

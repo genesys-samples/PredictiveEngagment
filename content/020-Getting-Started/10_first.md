@@ -1,13 +1,13 @@
 ---
-title: "First Lesson"
+title: "Primera Lección"
 chapter: false
 weight: 10
 ---
 
-## Configure Workshop
+## Configurar Taller
 
-1. Step one
+1. Paso uno
 
-2. Step two
+2. Paso dos
 
-3. Step three
+3. Paso tres

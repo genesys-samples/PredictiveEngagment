@@ -1,13 +1,13 @@
 ---
-title: "Second Lesson"
+title: "Segunda Lección"
 chapter: false
 weight: 20
 ---
 
-## Advanced Lesson
+## Lección Avanzada
 
-1. Step one
+1. Paso uno
 
-2. Step two
+2. Paso dos
 
-3. Step three
+3. Paso tres

@@ -1,23 +1,24 @@
 ---
-title: "Getting Started"
+title: "Para Empezar"
 chapter: true
 weight: 20
 ---
 
-## Tools You'll Need
+## Herramientas que necesitará
 
 
 * ### Github 
-    #### - Our repository can be found [here] (https://github.com/genesys-samples/cxAsCodeDevlab)
+    #### - Nuestro repositorio se puede encontrar [aquí] (https://github.com/genesys-samples/cxAsCodeDevlab)
 
-* ### New Folder
-    #### - Create and open a folder on your PC where you plan to store code locally. Ex: We created a folder on our Local Disk titled "Dev Projects".
+* ### Nueva carpeta
+    #### - Cree y abra una carpeta en su PC donde planee almacenar el código localmente. Ejemplo: creamos una carpeta en nuestro disco local titulada "Proyectos de desarrollo"
+
 
 * ### GitBash
-    #### -If you are using Git Bash outside of VScode, open Git Bash from this folder by right clicking a blank area within the folder and selecting “Git Bash Here" (see image below)
-    ![Gitbash](/images/gitbash.png)
+    #### - Si está utilizando Git Bash fuera de VScode, abra Git Bash desde esta carpeta haciendo clic derecho en un área en blanco dentro de la carpeta y seleccionando "Git Bash aquí" - “Git Bash Here" (vea la imagen a continuación)
+     ![Gitbash](/images/gitbash.png)
     
 * ### Microsoft VS Code
-    #### - Can be downloaded [Here](https://code.visualstudio.com/download)
-    #### -Open VS code from this folder by right clicking a blank area within the folder and selecting "Open With Code" (See image above)
+    #### - Se puede descargar [Aquí](https://code.visualstudio.com/download)
+    #### - Abra el código VS de esta carpeta haciendo clic con el botón derecho en un área en blanco dentro de la carpeta y seleccionando "Abrir con código" - "Open With Code" (vea la imagen de arriba)
 

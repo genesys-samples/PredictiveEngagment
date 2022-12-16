@@ -1,12 +1,12 @@
 ---
-title: "Conclusion"
+title: "Conclusión"
 chapter: true
 weight: 90
 ---
 
-# Conclusion
+# Conclusión
 
-Congrats! You've reached the end of today's workshop.
-Please fill out today's feedback form via this [TODO](TODO)
+¡Felicitaciones! Ha llegado al final del taller de hoy.
+Complete el formulario de comentarios a través de este [TODO](TODO)
 
 {{% children showhidden="false" %}}
