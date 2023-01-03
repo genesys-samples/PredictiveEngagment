@@ -1,13 +1,19 @@
 ---
-title: "Introduction"
+title: "What is Predictive Engagement?"
 chapter: true
 weight: 10
 ---
 
-# Genesys Workshop Series
+# What is Predictive Engagement?
+![header1](/images/header1.png)
 
-## Introduction
+#### Genesys Predictive Engagement is a cloud-based, AI-powered customer engagement solution that analyzes visitors' behaviors on websites, predicts the outcomes visitors are trying to achieve, and personalizes engagements to help visitors achieve those outcomes. 
 
-### Welcome
+#### Here are a few of the benefits of Predictive Engagement:
 
-In this workshop, you will learn how to build a workshop from scratch using Github and a few other tools. This workshop is intended for internal teams and partners who are working to develop workshops.
+
+![PredictiveEngagementBenefits](/images/PE1.jpg)
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/588824755?h=c9acf5d006" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+{{<vimeo 771585197>}}
