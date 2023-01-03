@@ -1,16 +1,26 @@
 ---
-title: "Genesys Workshop"
+title: "Predictive Engagement"
 chapter: true
 weight: 1
 ---
 
-# Genesys Workshop
+# Predictive Engagement
 
-### Welcome
+## Introduction
+In this workshop we will be covering the basic knowledge you need, to be able to understand and explain Predictive Engagement to Partners and Customers. 
 
-In this workshop you will learn to apply your foundational knowledge of [Genesys](https://genesys.com) and master example use cases that demonstrate [Experience as a Service](https://www.genesys.com/experience-as-a-service).
+## Pre-requisites
 
-### Learning Objectives
-- Setup and configure your environment.
-- Creating users and groups.
-- Configure security.
+- General knowledge & understanding of GDemo tools
+- Basic Knowledge of Genesys Cloud
+- Access to Partner Dev Org **(Optional if you wish to configure your own environment)**  
+
+## Learning Outcomes & Objectives
+ - Develop a general knowledge of Predictive Engagement
+    - What is Predictive Engagement? 
+    - Why is Predictive Engagement Important? 
+    - General Predictive Engagement Administration
+ - Develop an understanding of Predictive Engagement related Demos on GDemo 
+ - Develop an understanding of the existing GDemo Predictive Engagement Demo tools
+
+
