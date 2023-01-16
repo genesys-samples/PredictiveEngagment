@@ -1,15 +1,15 @@
 ---
-title: "What is Predictive Engagement?"
+title: "Qué es Predictive Engagement?"
 chapter: true
 weight: 10
 ---
 
-# What is Predictive Engagement?
+# Qué es Predictive Engagement?
 ![header1](/images/header1.png)
 
-#### Genesys Predictive Engagement is a cloud-based, AI-powered customer engagement solution that analyzes visitors' behaviors on websites, predicts the outcomes visitors are trying to achieve, and personalizes engagements to help visitors achieve those outcomes. 
+#### Genesys Predictive Engagement es una solución de captación de clientes basada en la nube y potenciada por IA que analiza los comportamientos de los visitantes en los sitios web, predice los resultados que los visitantes intentan conseguir y personaliza las interacciones para ayudar a los visitantes a conseguir esos resultados. 
 
-#### Here are a few of the benefits of Predictive Engagement:
+#### Estas son algunas de las ventajas de Predictive Engagement:
 
 
 ![PredictiveEngagementBenefits](/images/PE1.jpg)
