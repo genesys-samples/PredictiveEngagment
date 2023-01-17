@@ -1,44 +1,44 @@
 ---
-title: "Segmentos, Resultados (Outcomes), y Mapas de Acción (Action Maps)"
+title: "Segments, Outcomes, and Action Maps"
 chapter: false
 weight: 20
 ---
 
-### Segmentos
-#### Definición:
-Grupo de visitantes que comparten un comportamiento o características similares. Los segmentos de sesión caducan cuando finaliza la sesión individual. Los segmentos de clientes persisten entre sesiones. Para obtener más información, consulte **[Crear segmentos](https://all.docs.genesys.com/ATC/Current/AdminGuide/Manage_segments)**.
-#### Qué significa esto:
-Los segmentos se utilizan para identificar a los visitantes en función de sus características comunes. Posteriormente, se diseñan mapas de acción para captar segmentos específicos de visitantes y luego se filtra por segmentos para evaluar lo bien que se les está captando. 
-Algunos ejemplos de segmentos son: 
-- Atributos de los visitantes
-    - Localización 
-    - Tipo de navegador 
-    - Tipo de dispositivo y sistema operativo
-- Trayectoria del visitante
-    - URL de la página
-    - Consulta de búsqueda 
-    - Búsqueda por palabra clave
-![Segmento](/images/SegmentConfig.png)
-### Resultados - Outcomes
-#### Definición:
-Objetivo empresarial que desea seguir y alcanzar. Para obtener más información, consulte **[Crear resultados](https://all.docs.genesys.com/ATC/Current/AdminGuide/Manage_outcomes)**.
-#### Qué significa esto:
-Genesys Predictive Engagement utiliza el aprendizaje automático basado en IA para predecir la probabilidad de que los visitantes alcancen sus resultados empresariales exclusivos.   
-Algunos ejemplos de condiciones y características rastreables
-- Tiempo de inactividad
-- Abandono de formulario
-- Envío
-- Página visitada
+### Segments
+#### Definition:
+Group of visitors that share similar behavior or characteristics. Session segments expire when the single session ends. Customer segments persist across sessions. For more information, see **[Create segments](https://all.docs.genesys.com/ATC/Current/AdminGuide/Manage_segments)**.
+#### What this means:
+Segments are used to identify visitors based on their shared characteristics. Later, you design action maps to engage specific segments of visitors and then filter by segments to evaluate how well you are engaging them. 
+Some examples of segments are: 
+- Visitor attributes
+    - Location 
+    - Browser Type 
+    - Device Type & OS
+- Visitor Journey
+    - Page URL
+    - Search Query 
+    - Keyword Search
+![Segment](/images/SegmentConfig.png)
+### Outcomes
+#### Definition:
+Business goal that you want to track and achieve. For more information, see **[Create outcomes](https://all.docs.genesys.com/ATC/Current/AdminGuide/Manage_outcomes)**.
+#### What this means:
+Genesys Predictive Engagement uses AI-powered machine learning to predict the probability of visitors achieving your unique business outcomes.   
+Some examples of trackable conditions and characteristics
+- Idle TIme
+- Abandon Form
+- Submission
+- Viewed Page
 ![Outcomes](/images/OutcomeConfig.png)
-### Mapas de Acción - Action Maps
-#### Definición:
-Define cómo desea que Genesys Predictive Engagement interactúe con un visitante en función de los segmentos coincidentes del visitante y de sus resultados preferidos. Para obtener más información, consulte **[Crear un mapa de acción](https://all.docs.genesys.com/ATC/Current/AdminGuide/Action_maps)**.
-#### Qué significa esto:
-Los mapas de acción utilizan diferentes tipos de acciones para mejorar y ampliar el recorrido de un visitante. 
-Algunas acciones que pueden activarse en función de los segmentos de visitantes: 
-- Ofrecer Chat Web o Mensaje Web
-- Oferta Content Pop
-    - Código de descuento
-    - Ofertas especiales
-- Orquestación Avanzada (Flujo de Architect a consultas, bots, o para actualizar un sistema de terceros)
+### Action Maps
+#### Definition:
+Defines how you want Genesys Predictive Engagement to interact with a visitor based on the visitor's matching segments and your preferred outcomes. For more information, see **[Create an action map](https://all.docs.genesys.com/ATC/Current/AdminGuide/Action_maps)**.
+#### What this means:
+Action maps use different types of actions to enhance and extend a visitor's journey. 
+Some actions that can be triggered based on Visitor Segments: 
+- Offer Web Chat or Web Message
+- Content Pop offer
+    - Discount code
+    - Special Offers
+- Advanced Orchestration (Architect Flow to queries, bots, or to update a third-party system)
 ![ActionMap](/images/ActionMapConfig.png)
