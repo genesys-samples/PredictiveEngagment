@@ -1,39 +1,39 @@
 ---
-title: "Use Cases"
+title: "Casos de Uso"
 chapter: false
 weight: 10
 ---
 
-### Let's look at some use cases where Predictive Engagement can help convert a sale that was at risk of being abandoned
+### Veamos algunos casos de uso en los que Predictive Engagement puede ayudar a convertir una venta que estaba en riesgo de ser abandonada.
 
- #### A customer is online shopping for power storage for their residential solar energy system. They discover GSol, a solar energy company that educates consumers and sells solar energy equipment. 
+ #### Un cliente está comprando en Internet acumuladores de energía para su sistema de energía solar residencial. Descubre GSol, una empresa de energía solar que educa a los consumidores y vende equipos de energía solar. 
 
-- **The customer opens up GSol and begins exploring the website and shopping for batteries.**
+- **El cliente abre GSol y empieza a explorar el sitio web y a comprar baterías.**
 ![battery](/images/GSol.Batteries.png)
 
 
-- **They find a battery that is compatible with their solar energy system and add it to the cart.** 
+- **Encuentran una batería compatible con su sistema de energía solar y la añaden al carrito.** 
 ![Cart](/images/GSolCheckout.png)
 
-- **Upon reviewing their cart, they realize they have some questions and wonder if they can find a discount code for the product.** 
+- **Al revisar su cesta, se dan cuenta de que tienen algunas dudas y se preguntan si pueden encontrar un código de descuento para el producto.** 
 ![Checkout](/images/GSol.Checkout.png)
-- **Upon leaving the cart, Predictive Engagement realizes that there is a high potential for the customer to abandon the potential purchase. The system then triggers a web message session to re-engage the customer and help them to finalize their purchase. Additionally based on the customers search queries and items in their cart, it will deploy a bot that will address the customers needs in the most effective manner. Whether that is a self-service via the IVR or connecting the customer to an agent directly.** 
+- **Al abandonar el carrito, Predictive Engagement se da cuenta de que existe un alto potencial de que el cliente abandone la posible compra. El sistema activa entonces una sesión de mensajes web para volver a captar al cliente y ayudarle a finalizar su compra. Además, basándose en las consultas de búsqueda de los clientes y en los artículos de su cesta, desplegará un bot que atenderá las necesidades de los clientes de la manera más eficaz. Ya se trate de un autoservicio a través del IVR o de conectar directamente al cliente con un agente.** 
  
 ![Offer](/images/WebMessageOffer.png)
-- **The agent accesses the customer’s journey to see where they have been and what Predictive Engagement learned about the customer. Using the tools and information provided, the agent realizes the customer has a question and also now qualifies for a discount.** 
+- **El agente accede al viaje del cliente para ver dónde ha estado y qué aprendió Predictive Engagement sobre el cliente. Usando las herramientas y la información proporcionada, el agente se da cuenta de que el cliente tiene una pregunta y ahora también califica para un descuento.** 
 ![Journey](/images/journeymapnew.png)
-- **The agent can now provide the appropriate answers using agent assist to the customer. As well as a discount code to support the customer as they decide to finalize their purchase.** 
+- **Ahora, el agente puede proporcionar al cliente las respuestas adecuadas mediante el asistente de agente. Así como un código de descuento para ayudar al cliente cuando decida finalizar su compra.** 
 
-## Other Examples of where Predictive Engagement can help 
+## Otros ejemplos en los que Predictive Engagement (compromiso predictivo) puede ayudar 
 
-### Banking 
+### Banca 
 
-Help convert potential loan applicants find resources or connect to a representative. Predictive Engagement can offer a content pop to information about loans or offer a web message to a bot or representative who can help answer any questions. 
+Ayude a los posibles solicitantes de préstamos a encontrar recursos o a ponerse en contacto con un representante. Predictive Engagement puede ofrecer un pop de contenido a información sobre préstamos u ofrecer un mensaje web a un bot o representante que pueda ayudar a responder cualquier pregunta.
 
-### Healthcare 
+### Cuidado de la Salud (Healthcare)
 
-Help patients who abandons a form or are trying to book an appointment. Predictive Engagement can supply a content pop to help offer information to the patient or connect them to an agent. 
+Ayuda a los pacientes que abandonan un formulario o están tratando de reservar una cita. Predictive Engagement puede proporcionar una ventana emergente de contenido para ayudar a ofrecer información al paciente o conectarlo con un agente.
 
-### Retail 
+### Venta minorista (Retail) 
 
-Customer sits idle on website or abandons their cart. Predictive Engagement can offer a content pop with a discount code or engagement via web message with an agent.  
+El cliente permanece inactivo en el sitio web o abandona su carrito. Predictive Engagement puede ofrecer contenido emergente con un código de descuento o interacción a través de un mensaje web con un agente.

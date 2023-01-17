@@ -1,14 +1,14 @@
 ---
-title: "Using Predictive Engagement"
+title: "Usando Predictive Engagement"
 chapter: true
 weight: 20
 ---
 
-# Before you Begin
+# Antes de empezar
 ![header2](/images/header2.png)
-Note: This workshop is a high level explanation of how Predictive Engagement works with a website. **This course is not to be used as a guide for implementing Predictive Engagement.** 
+Nota: Este taller es una explicación de alto nivel de cómo funciona Predictive Engagement con un sitio web. **Este curso no debe usarse como una guía para implementar Predictive Engagement.**
 
 
-If you **do** intend to implement Predictive Engagement follow this link to the **[Implementation Quick Start Guide](https://all.docs.genesys.com/ATC/Current/AdminGuide/Get_Started_GenesysCloud)**.
+Si **pretende** implementar Predictive Engagement, siga este enlace a la **[Guía de inicio rápido de implementación](https://all.docs.genesys.com/ATC/Current/AdminGuide/Get_Started_GenesysCloud)**.
 
 

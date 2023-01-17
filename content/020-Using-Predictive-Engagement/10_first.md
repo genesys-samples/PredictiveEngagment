@@ -1,27 +1,27 @@
 ---
-title: "Configuration Tools"
+title: "Herramientas de configuración"
 chapter: false
 weight: 10
 ---
 
 
-### Integration into a website 
+### Integración en un sitio web
 
-- **[Permissions and Prerequisites to utilize Predictive Engagement](https://help.mypurecloud.com/articles/predictive-engagement-permissions-overview/)**  
+- **[Permisos y requisitos previos para utilizar Predictive Engagement](https://help.mypurecloud.com/articles/predictive-engagement-permissions-overview/)**  
 
-- #### Predictive Engagement has multiple steps that must be taken in order to work properly. Below you will find the different tools and instructions to set up; Web Tracking, Web Messaging, Web Chat, and other requirements.  
-- #### Preparation, Deployment & Tracking: 
-    - ##### Prepare Required Genesys Cloud CX domains  
-        - For agents to view journey context data from Genesys Predictive Engagement, specific Genesys Cloud CX domains must be available. 
-        - **[Required PC Domains](https://all.docs.genesys.com/ATC/RequiredPCDomains)** 
-    - ##### Configure Web Tracking 
-        - Configure how Genesys Predictive Engagement tracks visitors as they move through your website. 
+- #### Predictive Engagement tiene varios pasos que se deben tomar para que funcione correctamente. A continuación encontrará las diferentes herramientas e instrucciones para configurar; Seguimiento Web (Web Tracking), Mensajería Web (Web Messaging), Chat Web (Web Chat), y otros requisitos.  
+- #### Preparación, implementación y seguimiento:
+    - ##### Preparar los dominios de Genesys Cloud CX necesarios
+        - Para que los agentes vean los datos de contexto del recorrido de Genesys Predictive Engagement, deben estar disponibles dominios específicos de Genesys Cloud CX.
+        - **[Dominios de PC requeridos](https://all.docs.genesys.com/ATC/RequiredPCDomains)** 
+    - ##### Configurar el seguimiento web (Web Tracking) 
+        - Configure cómo Genesys Predictive Engagement realiza un seguimiento de los visitantes a medida que se desplazan por su sitio web.
         - **[Web Tracking](https://all.docs.genesys.com/ATC/Current/AdminGuide/Web_tracking)**  
-    - ##### Web Messenger 
-        - Configure and Deploy Web Messenger 
-            - Web Messenger allows for Predictive Engagement to track a website through it. For web chat deployment, a tracking snippet will be used in place. 
-        - **[Messenger Configuration](https://all.docs.genesys.com/ATC/Current/AdminGuide/Messenger_configuration)**  
+    - ##### Mensajería Web (Web Messenger) 
+        - Configurar e implementar Web Messenger
+            - Web Messenger permite que Predictive Engagement rastree un sitio web a través de él. Para la implementación del chat web, se utilizará un fragmento de seguimiento (tracking snippet) en su lugar.
+        - **[Configuración de mensajería](https://all.docs.genesys.com/ATC/Current/AdminGuide/Messenger_configuration)**  
 
-    - ##### Web Chat 
-        - For customers who intend to use Web Chat, a Tracking snippet is used to track a customer’s journey through a website 
+    - ##### Chat Web 
+        - Para los clientes que tienen la intención de usar Web Chat, se usa un fragmento de seguimiento para rastrear el viaje de un cliente a través de un sitio web.
         - **[Web Chat Tracking Snippet](https://all.docs.genesys.com/ATC/Current/AdminGuide/Tracking_snippet)**  

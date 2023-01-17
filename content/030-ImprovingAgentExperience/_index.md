@@ -1,18 +1,18 @@
 ---
-title: "Improving the Agent Experience"
+title: "Mejorar la experiencia de los agentes"
 chapter: true
 weight: 30
 ---
 
-# Improving the Agent Experience
+# Mejorar la experiencia de los agentes
 ![header3](/images/header3.png)
-#### Web Message/Chat connects to an agent
-Predictive Engagement provides the agent with knowledge of the customer’s journey from when they first engaged the website through the point they connected to the Contact Center. 
- - The agent has insight into what the customer did on the website through their customer journey and allows for the agent to see what the customer was trying to accomplish.  
-- The Agent can see the following information about the customer:
-    - Customer's Journey
-    - Segments assigned
-    - Outcomes achieved or failed to achieve
-    - Searches
-    - Device Information
-- Using the information learned about their customer through Predictive Engagement, the agent can then provide them with knowledge, discounts, or assistance the customer needs in a more efficient manner. 
+#### Mensaje web / chat conecta a una agente
+Predictive Engagement proporciona al agente el conocimiento del viaje del cliente desde que interactuó por primera vez con el sitio web hasta el punto en que se conectó al Contact Center.
+  - El agente tiene una idea de lo que hizo el cliente en el sitio web a través de su viaje como cliente y le permite ver lo que el cliente estaba tratando de lograr.
+- El Agente puede ver la siguiente información sobre el cliente:
+     - Viaje del cliente
+     - Segmentos asignados
+     - Resultados logrados o no logrados
+     - Búsquedas
+     - Información del dispositivo
+- Usando la información aprendida sobre su cliente a través de Predictive Engagement, el agente puede brindarles el conocimiento, los descuentos o la asistencia que el cliente necesita de una manera más eficiente.
